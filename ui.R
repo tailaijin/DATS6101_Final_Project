@@ -69,5 +69,5 @@ ui <- fluidPage(
   #Do a regression
   tags$h5("Regression results:"),
   tags$img(width = 600, src = "https://scontent-iad3-1.xx.fbcdn.net/hphotos-xfl1/t31.0-8/12371044_863833553714668_454991806156700548_o.jpg"),
-  tags$h5("All coeffients are significant, thus my hypothesis should be true in statistic.")
+  tags$h5("All coefficients are significant, thus my hypothesis should be true in statistic.")
 )
