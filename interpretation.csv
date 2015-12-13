@@ -1,0 +1,33 @@
+Abbr,whole name
+PLAYER,player
+TEAM,team
+POS,position
+AGE,age
+GP,Games Played
+MPG,Minutes Per Game
+MIN%,Minutes percent
+USG%,
+TOr,
+FTA,Free Throws Attempted
+FT%,
+2PA,Two Point Field Goals Attempted
+2P%,two-point shot percentage
+3PA,Three Point Field Goals Attempted
+3P%,three-point shot percentage
+TS%,True shooting%
+PPG,point per game
+RPG,rebound per game
+TRB%,
+APG,ASSIST PER GAME
+AST%,Assist
+SPG,____
+BPG,BLOCK PER GAME
+VI,
+,
+POS,
+F,Forward
+PG,Point Guard
+SG,Shooting Guard
+SF,Small Forward
+PF,Power Forward
+C,Center
